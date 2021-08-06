@@ -1903,6 +1903,7 @@ footer .footer-item h4 {
 footer .about .logo img {
   width: 89px;
   margin-bottom: 30px;
+  object-fit: contain;
 }
 
 footer .about a {
